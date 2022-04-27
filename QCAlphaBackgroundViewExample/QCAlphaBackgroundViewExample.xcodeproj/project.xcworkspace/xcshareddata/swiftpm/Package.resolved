@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "QCAlphaBackgroundView",
+        "repositoryURL": "https://github.com/krunalVanwari/QCAlphaBackgroundView.git",
+        "state": {
+          "branch": "main",
+          "revision": "10431113b15acdb395db1d4f87aeeb740a8bcccd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
