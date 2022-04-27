@@ -26,7 +26,7 @@ public class QCAlphaBackgroundView:UIView {
     private let rectangeSize:CGFloat = 8
     private var colorSets:(UIColor,UIColor) = (.white,.lightGray)
     
-    override func draw(_ rect: CGRect) {
+    public override func draw(_ rect: CGRect) {
         super.draw(rect)
         drawSqares(in: rect)
     }
