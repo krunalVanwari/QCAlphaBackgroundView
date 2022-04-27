@@ -1,6 +1,6 @@
 import UIKit
 
-class QCAlphaBackgroundView:UIView {
+public class QCAlphaBackgroundView:UIView {
 
     public var backgroundTheme:Theme = .light
     {
